@@ -1,4 +1,4 @@
 # primul-repo
 bla bla pentru invatare
 linie noua
-modificare directa din github
+modificare local directa din github
